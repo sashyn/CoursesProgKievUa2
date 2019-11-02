@@ -3,12 +3,6 @@ public class Lesson1 {
         System.out.println("Привет, Мир!");
 // Привет мир
         /*вв
-
-
-
-
-        ывыв
-
         вывывыв
         вывыв
         вы
