@@ -1,6 +1,11 @@
 public class Lesson1 {
-    void {
+    public static void main(String[] args) {
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Hello, World!" + i);
+        }
         System.out.println("Привет, Мир!");
+    }
+}
 // Привет мир
         /*вв
         вывывыв
@@ -9,5 +14,3 @@ public class Lesson1 {
         вывы
         вы
          */
-    }
-}
